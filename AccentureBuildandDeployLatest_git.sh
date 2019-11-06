@@ -1,5 +1,5 @@
-echo "feature/GooglePlus"
-echo "feature/GooglePlus/BackLog"
+#echo "feature/GooglePlus"
+#echo "feature/GooglePlus/BackLog"
 read branch
 cd /mntfirm/buildhere
 #echo "Checkout sharedLibs"
